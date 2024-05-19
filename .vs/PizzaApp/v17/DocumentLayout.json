@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\PizzaApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|c:\\users\\user\\source\\repos\\pizzaapp\\pizzaapp\\services\\toppingcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\services\\toppingcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|c:\\users\\user\\source\\repos\\pizzaapp\\pizzaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|c:\\users\\user\\source\\repos\\pizzaapp\\pizzaapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|c:\\users\\user\\source\\repos\\pizzaapp\\pizzaapp\\services\\ordercalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\services\\ordercalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|c:\\users\\user\\source\\repos\\pizzaapp\\pizzaapp\\services\\iordercalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\services\\iordercalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|c:\\users\\user\\source\\repos\\pizzaapp\\pizzaapp\\services\\itoppingcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\services\\itoppingcalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|c:\\users\\user\\source\\repos\\pizzaapp\\pizzaapp\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF24BB6-6F9F-48EF-9A88-443440AF58A0}|PizzaApp\\PizzaApp.csproj|solutionrelative:pizzaapp\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PizzaApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:07:11.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderCalc.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Services\\IOrderCalc.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Services\\IOrderCalc.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Services\\IOrderCalc.cs",
+              "RelativeToolTip": "PizzaApp\\Services\\IOrderCalc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:05:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderCalc.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Services\\OrderCalc.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Services\\OrderCalc.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Services\\OrderCalc.cs",
+              "RelativeToolTip": "PizzaApp\\Services\\OrderCalc.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:51:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Program.cs",
+              "RelativeToolTip": "PizzaApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:48:36.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IToppingCalc.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Services\\IToppingCalc.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Services\\IToppingCalc.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Services\\IToppingCalc.cs",
+              "RelativeToolTip": "PizzaApp\\Services\\IToppingCalc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:47:34.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToppingCalc.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Services\\ToppingCalc.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Services\\ToppingCalc.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Services\\ToppingCalc.cs",
+              "RelativeToolTip": "PizzaApp\\Services\\ToppingCalc.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:35:07.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "PizzaApp\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PizzaApp\\PizzaApp\\Model\\Order.cs",
+              "RelativeToolTip": "PizzaApp\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:26:28.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
